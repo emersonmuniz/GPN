@@ -1,2 +1,2 @@
-# MicroSG
-Micro Sistema de Gestão
+# MERP
+Modest ERP
