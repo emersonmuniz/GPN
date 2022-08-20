@@ -30,35 +30,34 @@ _ _ _
 
 ## ESTRUTURA DAS TABELAS
 
-#### empresa
-Description: *Cadastro de Empresas.*
-- [ ] DataBase Desing 
+### empresa
+Descrição: *Cadastro de Empresas.*
+- [ ] Desenho do BD 
 - [ ] SQL Script
-- [ ] Model
+- [ ] Modelelo
 - [ ] CRUD/MVC
-- [ ] Report
-- [ ] Rest ERP
-- [ ] Rest Web
+- [ ] Relatório
+- [ ] Rest Entrada
+- [ ] Rest Saida
 
-| NAME  | FIELD  | DESCRIPTION | NOTE |
+| NOME  | TIPO  | TITULO | DESCRIÇÃO |
 | ----  | -----  | ----------- | ---- |
 | id | integer - PK  | ID | |
-| cod_erp | varchar(10) - NN | Código ERP | |
-| system_unit_id | integer - NN | Unidade | |
+| cod_erp | varchar(10) - NN | Código | |
 | razao | varchar(100) - NN | Razão Social | |
 | fantasia | varchar(50) - NN | Nome de Fantasia | |
 | cep | varchar(10) | CEP | |
 | endereco | varchar(100) | Endereço | |
-| nro | varchar(10) |Número | |
+| nro | varchar(10) | Número | |
 | complemento | varchar(30) | Complemento | |
 | bairro | varchar(50) | Bairro | |
 | municipio | varchar(50) | Municipio | |
-| uf | char(2) | Estado/UF | |
+| uf | char(2) | Estado | |
 | telefone | varchar(15) | Telefone | |
 | cnpj | varchar(20) | CNPJ | |
 | ie | varchar(20) | Inscrição Estadual | |
 | email | varchar(100) | EMail | |
-| url | varchar(100) | Home Page | |
+| url | varchar(100) | Página | |
 | logo | text | Logo | |
 | obs | text | Observação | |
 | dt_inc | datetime | Inclusão | |
