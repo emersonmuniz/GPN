@@ -1,20 +1,39 @@
-# MicroSG
-### Micro Sistema de Gestão
+![LogoPicolezito.png](./images/SBM Logo.png)
 
-Este projeto foi criado para o meu retorno na programação, ainda continuo com gerenciamento na área, após anos sem desenvolver, fiquei muito tempo somente na área adminsitrativa, processos de negócio, custos e gerenciamento... hora de retornar...
 
-Onde trabalho atualmente utilizei uma ferramenta ( Adianti Builder ) para agilizar o desenvolvimento e criei um portal com serviço Rest levantando dados do TOTVS Protheus.
+# MICRO SISTEMA DE GESTÃO
 
-Este projeto será mais hard code.
 
-Bom, o projeto embora básico será totalmente utilizável, uma aplicação Web, atendendo um comércio ou industria.
+## FINALIDADE
+Este projeto tem a exclusiva finalidade de me fazer retornar para a área de T.I., onde eu trabalhava muito com desenvolvimento e com o tempo fui sendo jogado na Administração aliado com Gestão de T.I.
 
-Os processos atendidos serão, materiais, financeiro, vendas, produção e controles auxiliares de frota, manutênções.
+Mas, trata-se de algo funcional para uma gestão simplificada, baseado em dois sub-projetos que serão desenvolvidos acompanhando este.
 
-**Tecnologias**
+- [Picolézito Industria de Sorvetes](https://github.com/emersonmuniz/ICI/)
+- [Código em Bloco](https://github.com/emersonmuniz/codigo-em-bloco)
 
-Banco de Dados: *MySQL ou PostgreSQL*
-Linguagens: *PHP, Python, .NET ( ou ambas )*
-Frameworks: *Adianti, Laravel, Django ( ou outro )*
+Ambos projetos para fixar retornar para a área ou quem queira ingressar e a memória não contribui como a 20 anos atrás no meu caso.
 
-Após conclusão do modelo do banco de dados, processos, passarei a pensar nas tecnologias que serão utilizadas.
+## CARACTERISTICA
+
+ERP (Sistema Integrado de Gestão) para micro e pequenas empresas, abrangendo a industria como um dos fatores principais, de forma modular e máximo simplificado possível.
+
+## MÓDULOS
+A principio, tratamento como SPED e NFe serão deixados para um segundo momento, me concentrando na gestão, e no momento oportuno para não demandar muito tempo, será utilizado projeto opensorce para esta tarefa em especifico.
+
+**Módulos**
+- Cadastros Gerais (Pessoas, Produtos, Tabelas Genéricas)
+- Configurador (Parametrização dos módulos)
+- Contabilidade Gerencial
+- Financeiro
+- Estoques
+- Faturamento
+- Produção
+
+## TECNOLOGIA
+
+Para o banco de dados será adotado o MySQL ou PostgreSQL o que for melhor para deixar a regra de negócios no banco de dados, deixando alguns processos pequenos para os códigos em sí. Possibilitanto ter o mesmo projeto em várias tecnoligias como para pesquisas.
+
+Desejo deixar o projeto tanto para quem usa MadBuilder, AdiantiFramework como para quem usa Laravel ou mesmo Python, uma experiência que no decorrer será adotado o que melhor me adaptar nos testes adiantes.
+
+Enjoy.
