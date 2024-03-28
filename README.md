@@ -1,4 +1,3 @@
-![LogoPicolezito.png](https://github.com/emersonmuniz/SBM/blob/main/images/SBM%20Logo.png)
 
 
 # MICRO SISTEMA DE GESTÃO
@@ -37,3 +36,6 @@ Para o banco de dados será adotado o MySQL ou PostgreSQL o que for melhor para 
 Desejo deixar o projeto tanto para quem usa MadBuilder, AdiantiFramework como para quem usa Laravel ou mesmo Python, uma experiência que no decorrer será adotado o que melhor me adaptar nos testes adiantes.
 
 Enjoy.
+
+
+![Logo SBM.png](https://github.com/emersonmuniz/SBM/blob/main/images/SBM%20Logo.png)
