@@ -1,4 +1,4 @@
-![LogoPicolezito.png](./images/SBM Logo.png)
+![LogoPicolezito.png](https://github.com/emersonmuniz/SBM/blob/main/images/SBM%20Logo.png)
 
 
 # MICRO SISTEMA DE GESTÃO
