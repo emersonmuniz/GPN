@@ -39,3 +39,6 @@ Enjoy.
 
 
 ![Logo SBM.png](https://github.com/emersonmuniz/SBM/blob/main/images/SBM%20Logo.png)
+
+Para acompanhar o projeto como Kanban use o link: (Trello)
+https://trello.com/invite/b/N9eAp4mW/ATTI75b613443cc27e2b0249a8c9f0066e85234E3E44/sbm
