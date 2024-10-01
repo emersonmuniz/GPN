@@ -1,44 +1,53 @@
+GPN - Apresentação
 
+# Gestão de Pequenos Negócios (GPN)
 
-# GESTÃO DE PEQUENOS NEGÓCIOS
+---
 
+## Descrição do Projeto
 
-## FINALIDADE
-Este projeto tem a exclusiva finalidade de me fazer retornar para a área de T.I., onde eu trabalhava muito com desenvolvimento e com o tempo fui sendo jogado na Administração aliado com Gestão de T.I.
+**Gestão de Pequenos Negócios** é um projeto de desenvolvimento de software que visa criar um sistema de gestão para pequenas empresas, inicialmente focado em uma indústria de sorvetes fictícia, a Picolézito. Este projeto serve tanto como uma ferramenta educacional para desenvolvedores iniciantes quanto um modelo para pequenas empresas que desejam digitalizar e modernizar suas operações administrativas e de produção.
 
-Mas, trata-se de algo funcional para uma gestão simplificada, baseado em dois sub-projetos que serão desenvolvidos acompanhando este.
+---
 
-- [Picolézito Industria de Sorvetes](https://github.com/emersonmuniz/ICI/)
-- [Código em Bloco](https://github.com/emersonmuniz/codigo-em-bloco)
+## Objetivos do Projeto
 
-Ambos projetos para fixar retornar para a área ou quem queira ingressar e a memória não contribui como a 20 anos atrás no meu caso.
+- **Simulação**: Desenvolver um sistema de gestão simulado para uma indústria de sorvetes com duas lojas de venda direta.
+- **Documentação**: Fornecer documentação detalhada de todos os estágios de desenvolvimento, desde a análise de requisitos até a implementação.
+- **Bilinguismo de Código**: Implementar duas versões paralelas do sistema, uma em PHP utilizando o AdiantiFramework e outra em Python com Django.
 
-## CARACTERISTICA
+---
 
-ERP (Sistema Integrado de Gestão) para micro e pequenas empresas, abrangendo a industria como um dos fatores principais, de forma modular e máximo simplificado possível.
+## Tecnologias Utilizadas
 
-## MÓDULOS
-A principio, tratamento como SPED e NFe serão deixados para um segundo momento, me concentrando na gestão, e no momento oportuno para não demandar muito tempo, será utilizado projeto opensorce para esta tarefa em especifico.
+- **Banco de Dados**: MySQL será o banco de dados principal para armazenamento e recuperação de dados.
+- **Desenvolvimento**:
+  - **PHP**: Utilizando o AdiantiFramework para acelerar o desenvolvimento e garantir boas práticas de desenvolvimento.
+  - **Python**: Com o framework Django, conhecido por sua facilidade de uso e robustez para aplicações web.
 
-**Módulos**
-- Cadastros Gerais (Pessoas, Produtos, Tabelas Genéricas)
-- Configurador (Parametrização dos módulos)
-- Contabilidade Gerencial
-- Financeiro
-- Estoques
-- Faturamento
-- Produção
+---
 
-## TECNOLOGIA
+## Estrutura do Projeto
 
-Para o banco de dados será adotado o MySQL ou PostgreSQL o que for melhor para deixar a regra de negócios no banco de dados, deixando alguns processos pequenos para os códigos em sí. Possibilitanto ter o mesmo projeto em várias tecnoligias como para pesquisas.
+- **Requisitos e Análise**: Documentação detalhando o levantamento de requisitos, entrevistas e análises de fluxos de trabalho.
+- **Desenvolvimento**: Código-fonte organizado em duas pastas principais (`PHP-Adianti` e `Python-Django`), cada uma contendo os módulos correspondentes ao sistema de gestão.
+- **Documentos Administrativos**: Modelos de planilhas, relatórios e políticas que serão integrados ao sistema.
+- **Testes**: Scripts e estratégias de teste para garantir a qualidade do software.
 
-Desejo deixar o projeto tanto para quem usa MadBuilder, AdiantiFramework como para quem usa Laravel ou mesmo Python, uma experiência que no decorrer será adotado o que melhor me adaptar nos testes adiantes.
+---
 
-Enjoy.
+## Como Contribuir
 
+Este é um projeto open-source, e qualquer contribuição é bem-vinda! Sinta-se à vontade para:
 
-![Logo SBM.png](https://github.com/emersonmuniz/SBM/blob/main/images/SBM%20Logo.png)
+- **Abrir Issues**: Reportar bugs, sugerir melhorias ou pedir novas funcionalidades.
+- **Enviar Pull Requests**: Com código, documentação, ou até mesmo correções gramaticais.
+- **Discussões**: Participe das discussões sobre a direção do projeto e novas ideias.
 
-Para acompanhar o projeto como Kanban use o link: (Trello)
-https://trello.com/invite/b/N9eAp4mW/ATTI75b613443cc27e2b0249a8c9f0066e85234E3E44/sbm
+---
+
+## Licença
+
+Este projeto está licenciado sob a GNU AFFERO GENERAL PUBLIC LICENSE
+ - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
